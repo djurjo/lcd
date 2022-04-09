@@ -1,0 +1,4 @@
+:- module(main, [], []).
+
+:- use_module(lcd1602).
+
